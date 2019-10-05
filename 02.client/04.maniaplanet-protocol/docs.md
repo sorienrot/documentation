@@ -41,7 +41,7 @@ You can find the official title ids on [this table](../../dedicated-server/refer
 |:----------------------------------------------:|:----------------------------------------:|
 | #xxx=serverlogin@TITLEID                       | Join a specific server                   |
 | #xxx=serverlogin:serverpassword@TITLEID        | Join a private server                    |
-| #xxx=192.168.xx.xx::port@TITLEID               | Join a LAN server (default port is 2350) |
+| #xxx=192.168.xx.xx:port@TITLEID                | Join a LAN server (default port is 2350) |
 | #xxx=192.168.xx.xx:serverpassword:port@TITLEID | Join a private LAN server                |
 
 
